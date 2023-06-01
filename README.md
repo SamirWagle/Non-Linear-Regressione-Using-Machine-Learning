@@ -8,14 +8,14 @@ To use the code in this repository, follow these steps:
 Clone this repository<br>
 Install python and its libraries<br>
 
-<B> Models </B>
+<H1> Models </H1><br><br><br><br>
 I am using Linear, Quadratic Exponential and Power function model in it.
-
-<B> Data </B>
+<br>
+<H1> Data </H1><br><br><br>
 I am using boston data set for housing in this project.
+<br>
+<h1> Result </H1><br><br>
+At the end quadratic gave the best result for us. <br>
 
-<B> Result </B>
-At the end quadratic gave the best result for us. 
-
-<B> Contributions </B>
+<h1> Contributions </h1><br>
 Contributions to this repository are always welcome. If you find any issues, have suggestions for improvements, or would like to add new features or algorithms, please feel free to submit a pull request.
