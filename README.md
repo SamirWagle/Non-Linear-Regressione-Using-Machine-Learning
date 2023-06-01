@@ -2,11 +2,11 @@ This repository provides a comprehensive implementation of non-linear regression
 
 In this project, we explore various machine learning algorithms and techniques to perform non-linear regression. These algorithms can be used to estimate the parameters of a non-linear model based on a given dataset, enabling us to make predictions and gain insights into the underlying relationships between the variables.
 
-<B> Installation </B>
+<H1> Installation </H1><br>
 To use the code in this repository, follow these steps:
-
-Clone this repository
-Install python and its libraries
+<br>
+Clone this repository<br>
+Install python and its libraries<br>
 
 <B> Models </B>
 I am using Linear, Quadratic Exponential and Power function model in it.
