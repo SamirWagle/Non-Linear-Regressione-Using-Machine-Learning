@@ -1,0 +1,3 @@
+This repository provides a comprehensive implementation of non-linear regression using machine learning algorithms. Non-linear regression is a powerful technique used to model complex relationships between variables when the relationship cannot be accurately represented by a linear model.
+
+In this project, we explore various machine learning algorithms and techniques to perform non-linear regression. These algorithms can be used to estimate the parameters of a non-linear model based on a given dataset, enabling us to make predictions and gain insights into the underlying relationships between the variables.
